@@ -1,1 +1,3 @@
 # research_deeplearning
+深層学習関連のプログラムを使う
+深層学習ライブラリはkerasを使用
